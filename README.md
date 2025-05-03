@@ -54,9 +54,9 @@
 ## 💡 Technical Expertise
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Blockchain.+Systems.+Web3.+AI.+All+connected."/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,anchor,ethereum,solana,nodejs,react,nextjs,postgres,mongodb,python,docker,vercel&perline=7&theme=dark" height="50"/>
+</div>
 
 <div align="center">
   <table>
