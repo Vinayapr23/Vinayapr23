@@ -1,4 +1,3 @@
-# Vinaya Prasad R
 
 <div align="center">
   
