@@ -54,9 +54,6 @@
 ## 💡 Technical Expertise
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,anchor,ethereum,solana,nodejs,react,nextjs,postgres,mongodb,python,docker,vercel&perline=7&theme=dark" height="50"/>
-</div>
 
 <div align="center">
   <table>
