@@ -79,18 +79,10 @@ pub fn vinaya_expertise() -> Vec<TechDomain> {
 
 ---
 
-## 📚 Technical Publications & Research
+## 🧠 My Technical Deep Dives
 
-<div align="center">
-
-| Topic | Description |
-|-------|-------------|
-| **Proof of History Analysis** | Detailed exploration of Solana's novel consensus mechanism and high-performance validator requirements |
-| **ZK Circuit Design Patterns** | Implementation strategies for zero-knowledge circuits in financial applications |
-| **MEV Resistance Strategies** | Research on transaction ordering techniques that minimize value extraction |
-| **Solana Runtime Optimization** | Performance improvements for Solana programs through low-level optimizations |
-
-</div>
+-Solana Deep Dive
+- Daily thoughts + memes on [Twitter](https://twitter.com/Vinayapr23)
 
 ---
 
