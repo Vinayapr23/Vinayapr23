@@ -26,7 +26,6 @@
 <h3 align="center">PIVOX</h3>
 <div align="center">
   <a href="https://github.com/Vinayapr23/pivox" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinayapr23/assets/main/pivox-banner.png" onerror="this.onerror=null;this.src='https://i.imgur.com/kbMCUen.png';" width="100%" alt="PIVOX - Decentralized Payroll"/>
   </a>
   <p>
     <strong>Decentralized Payroll Infrastructure</strong> - Streamlining freelancer payments on Solana with automated token streams, multi-currency support, and treasury management tools.
@@ -44,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/vinayapr23/assets/main/redpill.png" onerror="this.onerror=null;this.src='https://i.imgur.com/1QYU3zB.png';" width="100%" alt="RedPill Morpheus NFT Collection"/>
   </a>
   <p>
-    <strong>AI-Powered NFT Collection</strong> - Programmatically generated crypto memes with on-chain metadata, deployed daily to Zora's marketplace.
+    <strong>AI-Powered Twitter Bot</strong> - The oracle cryto bot advising you on the Matrix. Powered by elizaOS
   </p>
   <a href="https://zora.co/Vinayapr23" target="_blank">
     <img src="https://img.shields.io/badge/View_Collection-0A84FF?style=for-the-badge"/>
