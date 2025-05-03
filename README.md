@@ -122,10 +122,7 @@ pub fn vinaya_expertise() -> Vec<TechDomain> {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayapr23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayapr23&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayapr23&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Most Used Languages"/>
