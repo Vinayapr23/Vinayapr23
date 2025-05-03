@@ -9,11 +9,10 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Vinayapr23)
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayapr23)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayapr23)
-  [![Zora](https://img.shields.io/badge/Zora-%23121212.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI1MCIgeT0iNTAiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iODAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI+WjwvdGV4dD48L3N2Zz4=)](https://zora.co/Vinayapr23)
+
 
   ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Blockchain+Protocol+Engineer;Solana+Ecosystem+Builder;ZK+Cryptography+Specialist;Decentralized+Systems+Architect)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Vinayapr23&style=flat-square&color=0A84FF)
 
 </div>
 
@@ -37,36 +36,7 @@
   </a>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">Intent-based DeFi Protocol</h3>
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinayapr23/assets/main/intent-defi.png" onerror="this.onerror=null;this.src='https://i.imgur.com/ZCNgFLX.png';" width="100%" alt="Intent-based DeFi Protocol"/>
-  </a>
-  <p>
-    <strong>Beyond MEV Architecture</strong> - Intent-driven trading system eliminating front-running attacks with ZK-powered private order execution and optimized settlement.
-  </p>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/In_Development-0A84FF?style=for-the-badge"/>
-  </a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Omnichain Swapper</h3>
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinayapr23/assets/main/omnichain.png" onerror="this.onerror=null;this.src='https://i.imgur.com/hgBRqfx.png';" width="100%" alt="Omnichain Swapper"/>
-  </a>
-  <p>
-    <strong>Cross-chain Liquidity Protocol</strong> - Seamless token swapping across blockchains using LayerZero for trustless bridging and unified liquidity pools.
-  </p>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/In_Development-0A84FF?style=for-the-badge"/>
-  </a>
-</div>
-</td>
+
 <td width="50%">
 <h3 align="center">RedPill Morpheus</h3>
 <div align="center">
@@ -96,18 +66,6 @@ pub fn vinaya_expertise() -> Vec<TechDomain> {
             "Ethereum Smart Contracts",
             "Cross-chain Protocol Design", 
             "Rust/Solidity/Anchor Framework"
-        ]),
-        TechDomain::Cryptography(vec![
-            "Zero-Knowledge Proofs",
-            "ZK-SNARKs Implementation",
-            "Homomorphic Encryption",
-            "Secure Multi-party Computation"
-        ]),
-        TechDomain::DeFi(vec![
-            "Automated Market Makers",
-            "Liquidity Provisioning",
-            "MEV-Resistant Architectures",
-            "On-chain Order Books"
         ]),
         TechDomain::Systems(vec![
             "Distributed Systems",
@@ -175,16 +133,12 @@ pub fn vinaya_expertise() -> Vec<TechDomain> {
 
 ---
 
-## 💬 Blockchain Philosophy
 
-> "The value of blockchains isn't in replicating the systems we already have. It's in building the systems we've always needed but couldn't create before."
+## 🔴 RedPill Wisdom
 
-> "Zero-knowledge proofs are to privacy what blockchain is to trust: a fundamental paradigm shift in how we build systems."
-
-> "True decentralization requires not just distributed consensus, but distributed power."
+> *"You take the red pill... you stay in Wonderland, and I show you how deep the blockchain rabbit hole goes."*
 
 ---
-
 <div align="center">
 
 ## 🤝 Let's Connect
