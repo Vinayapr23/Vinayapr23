@@ -1,145 +1,199 @@
-<!-- Dynamic Header Banner -->
+# Vinaya Prasad R
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=180&section=header&text=Vinaya%20Prasad%20R&fontSize=42&fontColor=fff&animation=fadeIn" alt="Header Banner"/>
-</p>
+<div align="center">
+  
+  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Vinaya%20Prasad%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-<h2 align="center">⚡ Onchain Engineer | DeFi Explorer | ZK Enthusiast ⚡</h2>
+  ## Blockchain Architect | ZK Protocol Engineer | DeFi Innovator
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Building+the+decentralized+future;Solana+Native+%7C+DeFi+Architect+%7C+ZK+Explorer;AI+x+Crypto+Integration+Specialist;Let's+take+the+RedPill+and+go+down+the+rabbit+hole" alt="Typing SVG"/>
-</p>
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Vinayapr23)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayapr23)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayapr23)
+  [![Zora](https://img.shields.io/badge/Zora-%23121212.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI1MCIgeT0iNTAiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iODAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI+WjwvdGV4dD48L3N2Zz4=)](https://zora.co/Vinayapr23)
 
-<p align="center">
-  <a href="https://twitter.com/Vinayapr23">
-    <img src="https://img.shields.io/twitter/follow/Vinayapr23?style=flat&logo=twitter&color=00FFD1&labelColor=000000&label=Follow" alt="Twitter Follow">
-  </a>&nbsp;
-  <a href="https://github.com/Vinayapr23">
-    <img src="https://img.shields.io/github/followers/Vinayapr23?style=flat&logo=github&color=00FFD1&labelColor=000000&label=Follow" alt="GitHub Follow">
-  </a>&nbsp;
-  <a href="https://zora.co/Vinayapr23">
-    <img src="https://img.shields.io/badge/ZORA-Profile-00FFD1?style=flat&labelColor=000000" alt="Zora Profile">
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Blockchain+Protocol+Engineer;Solana+Ecosystem+Builder;ZK+Cryptography+Specialist;Decentralized+Systems+Architect)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Vinayapr23&style=flat-square&color=0A84FF)
+
+</div>
+
+---
+
+## 🚀 Current Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">PIVOX</h3>
+<div align="center">
+  <a href="https://github.com/Vinayapr23/pivox" target="_blank">
+    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Project"/>
   </a>
-</p>
+  <p>
+    <strong>Decentralized Payroll Infrastructure</strong> - Streamlining freelancer payments on Solana with automated token streams, multi-currency support, and treasury management tools.
+  </p>
+  <a href="https://github.com/Vinayapr23/pivox" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
+  </a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Intent-based DeFi Protocol</h3>
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Project"/>
+  </a>
+  <p>
+    <strong>Beyond MEV Architecture</strong> - Intent-driven trading system eliminating front-running attacks with ZK-powered private order execution and optimized settlement.
+  </p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/In_Development-0A84FF?style=for-the-badge"/>
+  </a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Omnichain Swapper</h3>
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Project"/>
+  </a>
+  <p>
+    <strong>Cross-chain Liquidity Protocol</strong> - Seamless token swapping across blockchains using LayerZero for trustless bridging and unified liquidity pools.
+  </p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/In_Development-0A84FF?style=for-the-badge"/>
+  </a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">RedPill Morpheus</h3>
+<div align="center">
+  <a href="https://zora.co/Vinayapr23" target="_blank">
+    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Project"/>
+  </a>
+  <p>
+    <strong>AI-Powered NFT Collection</strong> - Programmatically generated crypto memes with on-chain metadata, deployed daily to Zora's marketplace.
+  </p>
+  <a href="https://zora.co/Vinayapr23" target="_blank">
+    <img src="https://img.shields.io/badge/View_Collection-0A84FF?style=for-the-badge"/>
+  </a>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ What I'm Building
-
-### **[PIVOX](https://github.com/Vinayapr23/pivox)**
-
-> Decentralized payroll infrastructure for freelancers on Solana with automated payment streams, multi-token support, and treasury management.
-
-### **Intent-based DeFi Protocol**
-
-> Beyond MEV - intent-driven trading that eliminates sandwich attacks with ZK-powered order execution and privacy-preserving transaction routing.
-
-### **Omnichain Swapper**
-
-> Real token swapping across chains using LayerZero's ultra-light nodes for trustless bridging and seamless cross-chain liquidity.
-
-### **RedPill Morpheus**
-
-> Automated crypto meme distribution with AI-powered image generation, deployed daily to Zora.
-
-> *Daily drops, real tech, zero fluff.*
-
----
-
-## 🧠 My Technical Deep Dives
-
-* Breaking down **Proof of History** internals
-* Reverse-engineering **Solana's runtime** for optimization
-* ZK circuit design patterns for DeFi applications
-* MEV-resistant transaction ordering strategies
-* Daily thoughts + memes on [Twitter](https://twitter.com/Vinayapr23)
+## 💡 Technical Expertise
 
 ```rust
-/// Rust-based Solana Program Example
-pub fn process_instruction(
-    program_id: &Pubkey,
-    accounts: &[AccountInfo],
-    instruction_data: &[u8],
-) -> ProgramResult {
-    // On-chain logic that separates the builders from the hype
-    let instruction = SwapInstruction::unpack(instruction_data)?;
-    
-    match instruction {
-        SwapInstruction::Initialize { fee } => {
-            msg!("Instruction: Initialize");
-            initialize(program_id, accounts, fee)
-        }
-        SwapInstruction::Swap { amount_in, min_amount_out } => {
-            msg!("Instruction: Swap");
-            swap(program_id, accounts, amount_in, min_amount_out)
-        }
-    }
+pub fn vinaya_expertise() -> Vec<TechDomain> {
+    vec![
+        TechDomain::Blockchain(vec![
+            "Solana Program Development",
+            "Ethereum Smart Contracts",
+            "Cross-chain Protocol Design", 
+            "Rust/Solidity/Anchor Framework"
+        ]),
+        TechDomain::Cryptography(vec![
+            "Zero-Knowledge Proofs",
+            "ZK-SNARKs Implementation",
+            "Homomorphic Encryption",
+            "Secure Multi-party Computation"
+        ]),
+        TechDomain::DeFi(vec![
+            "Automated Market Makers",
+            "Liquidity Provisioning",
+            "MEV-Resistant Architectures",
+            "On-chain Order Books"
+        ]),
+        TechDomain::Systems(vec![
+            "Distributed Systems",
+            "Protocol Optimization",
+            "Runtime Performance Analysis",
+            "Blockchain Scalability"
+        ])
+    ]
 }
 ```
 
 ---
 
-## 💻 Tech Stack & Tools
+## 📚 Technical Publications & Research
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=black" alt="Solana"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+<div align="center">
 
----
+| Topic | Description |
+|-------|-------------|
+| **Proof of History Analysis** | Detailed exploration of Solana's novel consensus mechanism and high-performance validator requirements |
+| **ZK Circuit Design Patterns** | Implementation strategies for zero-knowledge circuits in financial applications |
+| **MEV Resistance Strategies** | Research on transaction ordering techniques that minimize value extraction |
+| **Solana Runtime Optimization** | Performance improvements for Solana programs through low-level optimizations |
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinayapr23&show_icons=true&theme=dark&title_color=00FFD1&text_color=FFFFFF&icon_color=00FFD1&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayapr23&theme=dark&hide_border=true&stroke=00FFD1&ring=00FFD1&fire=00FFD1&currStreakNum=FFFFFF&currStreakLabel=00FFD1&sideNums=FFFFFF&sideLabels=00FFD1&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayapr23&layout=compact&theme=dark&title_color=00FFD1&text_color=FFFFFF&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🔴 RedPill Wisdom
+## 🛠️ Tech Stack
 
-> *"You take the red pill... you stay in Wonderland, and I show you how deep the blockchain rabbit hole goes."*
+<div align="center">
+
+### Languages
+![Rust](https://img.shields.io/badge/Rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Blockchain & Web3
+![Solana](https://img.shields.io/badge/Solana-%2300FFA3.svg?style=for-the-badge&logo=solana&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-%23F2BB05.svg?style=for-the-badge&logo=anchor&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ---
 
-## 🔗 Let's Connect & Build Together
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://twitter.com/Vinayapr23">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=00FFD1"/>
-  </a>
-  <a href="https://linkedin.com/in/vinayapr23">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00FFD1"/>
-  </a>
-  <a href="https://github.com/Vinayapr23">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00FFD1"/>
-  </a>
-  <a href="https://zora.co/Vinayapr23">
-    <img src="https://img.shields.io/badge/Zora-black?style=for-the-badge&logoColor=00FFD1"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayapr23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayapr23&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinayapr23&style=for-the-badge&color=00FFD1"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayapr23&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Most Used Languages"/>
+</div>
 
-<!-- Footer -->
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer"/>
-</p>
+## 💬 Blockchain Philosophy
 
+> "The value of blockchains isn't in replicating the systems we already have. It's in building the systems we've always needed but couldn't create before."
+
+> "Zero-knowledge proofs are to privacy what blockchain is to trust: a fundamental paradigm shift in how we build systems."
+
+> "True decentralization requires not just distributed consensus, but distributed power."
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm always open to discussing blockchain architecture, protocol design, or collaborative projects.
+
+[![Email](https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vinayaprasad.com)
+[![Schedule a Call](https://img.shields.io/badge/Schedule_Call-0A84FF?style=for-the-badge&logo=zoom&logoColor=white)](https://calendly.com/vinayapr23)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=120&section=footer)
