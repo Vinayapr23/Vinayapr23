@@ -76,8 +76,7 @@ pub fn vinaya_expertise() -> Vec<TechDomain> {
 
 ## 🧠 My Technical Deep Dives
 
--Solana Deep Dive
-- Daily thoughts + memes on [Twitter](https://twitter.com/Vinayapr23)
+- Daily thoughts on Solana  [Twitter](https://twitter.com/Vinayapr23)
 
 ---
 
