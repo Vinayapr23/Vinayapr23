@@ -3,14 +3,14 @@
   
   ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Vinaya%20Prasad%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-  ## Blockchain Architect | ZK Protocol Engineer | DeFi Innovator
+  ## Blockchain Engineer | Software Engineer | Full Stack Developer
 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Vinayapr23)
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayapr23)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayapr23)
 
 
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Solana+Ecosystem+Builder;)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Solana+Ecosystem+Builder;)
   
 
 </div>
