@@ -39,15 +39,10 @@
 <td width="50%">
 <h3 align="center">RedPill Morpheus</h3>
 <div align="center">
-  <a href="https://zora.co/Vinayapr23" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinayapr23/assets/main/redpill.png" onerror="this.onerror=null;this.src='https://i.imgur.com/1QYU3zB.png';" width="100%" alt="RedPill Morpheus NFT Collection"/>
-  </a>
   <p>
     <strong>AI-Powered Twitter Bot</strong> - The oracle cryto bot advising you on the Matrix. Powered by elizaOS
   </p>
-  <a href="https://zora.co/Vinayapr23" target="_blank">
-    <img src="https://img.shields.io/badge/View_Collection-0A84FF?style=for-the-badge"/>
-  </a>
+
 </div>
 </td>
 </tr>
