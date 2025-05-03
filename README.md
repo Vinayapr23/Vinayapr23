@@ -11,7 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayapr23)
 
 
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Blockchain+Protocol+Engineer;Solana+Ecosystem+Builder;ZK+Cryptography+Specialist;Decentralized+Systems+Architect)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Solana+Ecosystem+Builder;)
   
 
 </div>
