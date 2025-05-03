@@ -53,24 +53,14 @@
 
 ## 💡 Technical Expertise
 
-```rust
-pub fn vinaya_expertise() -> Vec<TechDomain> {
-    vec![
-        TechDomain::Blockchain(vec![
-            "Solana Program Development",
-            "Ethereum Smart Contracts",
-            "Cross-chain Protocol Design", 
-            "Rust/Solidity/Anchor Framework"
-        ]),
-        TechDomain::Systems(vec![
-            "Distributed Systems",
-            "Protocol Optimization",
-            "Runtime Performance Analysis",
-            "Blockchain Scalability"
-        ])
-    ]
-}
-```
+**Blockchain**  
+Solana programs • Ethereum contracts  • Anchor/Rust/Foundry
+
+**Web Stack**  
+Next.js • Node.js • Auth systems • SQL/NoSQL • Full dApp stack
+
+**AI**  
+GenAI tools • Diffusion models • WhatsApp bots • AI-driven UX
 
 ---
 
