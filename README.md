@@ -1,12 +1,4 @@
-<!-- Dynamic Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=180&section=header&text=Vinaya%20Prasad%20R&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
-</p>
-
-<h2 align="center">🌌 Web3 Engineer | DeFi Architect | ZK Builder 🌌</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=Engineering+Trustless+Systems+at+Scale;Solana+Native+%7C+Intent-Driven+DeFi+%7C+ZK+Proof+Crafter;Pushing+Boundaries+at+the+Intersection+of+AI+x+Crypto" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF61F6&center=true&vCenter=true&width=1000&lines=Engineering+Trustless+Systems+at+Scale;Solana+Native+%7C+Intent-Driven+DeFi+%7C+ZK+Proof+Crafter;Pushing+Boundaries+at+the+Intersection+of+AI+x+Crypto" alt="Typing SVG"/>
 </p>
 
 <p align="center">
