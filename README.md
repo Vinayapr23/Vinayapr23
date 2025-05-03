@@ -55,13 +55,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,anchor,rust,ethereum,solana&theme=dark" height="35"/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,postgres,mongodb&theme=dark" height="35"/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,ai,docker,vercel&theme=dark" height="35"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Blockchain.+Systems.+Web3.+AI.+All+connected."/>
-</p>
 
 <ul>
   <li><strong>Blockchain</strong> — Solana Programs · Ethereum Contracts · Cross-chain Bridges · Rust/Anchor/Foundry</li>
