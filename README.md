@@ -53,14 +53,22 @@
 
 ## 💡 Technical Expertise
 
-**Blockchain**  
-Solana programs • Ethereum contracts  • Anchor/Rust/Foundry
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,anchor,rust,ethereum,solana&theme=dark" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,postgres,mongodb&theme=dark" height="35"/>
+  <img src="https://skillicons.dev/icons?i=python,ai,docker,vercel&theme=dark" height="35"/>
+</p>
 
-**Web Stack**  
-Next.js • Node.js • Auth systems • SQL/NoSQL • Full dApp stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Blockchain.+Systems.+Web3.+AI.+All+connected."/>
+</p>
 
-**AI**  
-GenAI tools • Diffusion models • WhatsApp bots • AI-driven UX
+<ul>
+  <li><strong>Blockchain</strong> — Solana Programs · Ethereum Contracts · Cross-chain Bridges · Rust/Anchor/Foundry</li>
+  <li><strong>Systems</strong> — Distributed Protocols · Runtime Profiling · Scalability Engineering · Modular Infra</li>
+  <li><strong>Web Stack</strong> — Next.js · Node.js · Auth Systems · PostgreSQL · MongoDB</li>
+  <li><strong>AI × Crypto</strong> — GenAI Tools · Stable Diffusion · WhatsApp Bots · AI-driven UX</li>
+</ul>
 
 ---
 
