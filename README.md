@@ -43,7 +43,7 @@
     <strong>AI-Powered Twitter Bot</strong> - The oracle cryto bot advising you on the Matrix. Powered by elizaOS
   </p>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/View_Collection-0A84FF?style=for-the-badge"/>
+     <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
   </a>
 </div>
 </td>
