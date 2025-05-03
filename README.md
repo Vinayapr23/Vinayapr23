@@ -53,23 +53,33 @@
 
 ## 💡 Technical Expertise
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,anchor,rust,ethereum,solana&theme=dark" height="35"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,postgres,mongodb&theme=dark" height="35"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ai,docker,vercel&theme=dark" height="35"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Blockchain.+Systems.+Web3.+AI.+All+connected."/>
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Blockchain</strong></td>
+      <td>Solana Programs · Ethereum Contracts · Cross-chain Bridges · Rust/Anchor/Foundry</td>
+    </tr>
+    <tr>
+      <td><strong>Systems</strong></td>
+      <td>Distributed Protocols · Runtime Profiling · Scalability Engineering · Modular Infra</td>
+    </tr>
+    <tr>
+      <td><strong>Web Stack</strong></td>
+      <td>Next.js · Node.js · Auth Systems · PostgreSQL · MongoDB</td>
+    </tr>
+    <tr>
+      <td><strong>AI × Crypto</strong></td>
+      <td>GenAI Tools · Stable Diffusion · WhatsApp Bots · AI-driven UX</td>
+    </tr>
+  </table>
+</div>
 
-<ul>
-  <li><strong>Blockchain</strong> — Solana Programs · Ethereum Contracts · Cross-chain Bridges · Rust/Anchor/Foundry</li>
-  <li><strong>Systems</strong> — Distributed Protocols · Runtime Profiling · Scalability Engineering · Modular Infra</li>
-  <li><strong>Web Stack</strong> — Next.js · Node.js · Auth Systems · PostgreSQL · MongoDB</li>
-  <li><strong>AI × Crypto</strong> — GenAI Tools · Stable Diffusion · WhatsApp Bots · AI-driven UX</li>
-</ul>
+---
 
 ---
 
