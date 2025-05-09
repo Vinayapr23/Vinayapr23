@@ -58,11 +58,7 @@
   <table>
     <tr>
       <td><strong>Blockchain</strong></td>
-      <td>Solana Programs · Ethereum Contracts · Cross-chain Bridges · Rust/Anchor/Foundry</td>
-    </tr>
-    <tr>
-      <td><strong>Systems</strong></td>
-      <td>Distributed Protocols · Runtime Profiling · Scalability Engineering · Modular Infra</td>
+      <td>Solana Programs · Ethereum Contracts · Rust/Anchor/Foundry</td>
     </tr>
     <tr>
       <td><strong>Web Stack</strong></td>
@@ -70,7 +66,7 @@
     </tr>
     <tr>
       <td><strong>AI × Crypto</strong></td>
-      <td>GenAI Tools · Stable Diffusion · WhatsApp Bots · AI-driven UX</td>
+      <td>GenAI Tools · Stable Diffusion · WhatsApp Bots </td>
     </tr>
   </table>
 </div>
@@ -82,6 +78,7 @@
 ## 🧠 My Technical Deep Dives
 
 - Daily thoughts on Solana  [Twitter](https://twitter.com/Vinayapr23)
+- Medium blogs [Medium](https://medium.com/@vinayapr23/proof-of-history-solanas-secret-weapon-against-time-341320efad9b)
 
 ---
 
