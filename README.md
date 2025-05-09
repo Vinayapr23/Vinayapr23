@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayapr23)
 
 
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Solana+Ecosystem+Builder;)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Blockchain+Engineer;)
   
 
 </div>
@@ -35,12 +35,12 @@
 </td>
 
 <td width="50%">
-<h3 align="center">RedPill Morpheus</h3>
+<h3 align="center">VIPR Stablecoin</h3>
 <div align="center">
   <p>
-    <strong>AI-Powered Twitter Bot</strong> - The oracle cryto bot advising you on the Matrix. Powered by elizaOS
+    <strong>An exogenous stable coin pegged against WETH and WBTC
   </p>
-  <a href="" target="_blank">
+  <a href="https://github.com/yourusername/ViprStableCoin" target="_blank">
      <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
   </a>
 </div>
