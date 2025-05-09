@@ -130,7 +130,7 @@
 
 I'm always open to discussing blockchain architecture, protocol design, or collaborative projects.
 
-[![Email](https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vinayaprasad.com)
+[![Email](https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayapr23@gmail.com)
 [![Schedule a Call](https://img.shields.io/badge/Schedule_Call-0A84FF?style=for-the-badge&logo=zoom&logoColor=white)](https://calendly.com/vinayapr23)
 
 </div>
