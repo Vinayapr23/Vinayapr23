@@ -40,7 +40,7 @@
   <p>
     <strong>An exogenous stable coin pegged against WETH and WBTC
   </p>
-  <a href="https://github.com/yourusername/ViprStableCoin" target="_blank">
+  <a href="https://github.com/Vinayapr23/ViprStableCoin" target="_blank">
      <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
   </a>
 </div>
