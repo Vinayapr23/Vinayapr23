@@ -24,7 +24,7 @@
 <h3 align="center">Ordr.trade</h3>
 <div align="center">
   <p>
-    <strong>Fully on-chain CLOB on Solana</strong> — critbit-based maker books with unlimited price levels, global vault PDA per maker, JIT settlement, and hand-written sBPF assembly for hot paths. Built with Pinocchio (zero-alloc, zero-dependency).
+    <strong>Fully on-chain CLOB on Solana.Built with Pinocchio (zero-alloc, zero-dependency).
   </p>
   <img src="https://img.shields.io/badge/Co--Founder-0A84FF?style=for-the-badge"/>
 </div>
