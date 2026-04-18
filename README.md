@@ -34,7 +34,7 @@
 <h3 align="center">Showdown.win</h3>
 <div align="center">
   <p>
-    <strong>Dueling protocol on Solana mainnet</strong> — trustless P2P tournaments with Squads 2-of-3 multisig treasury, fee-on-transfer token protection, and automated dispute resolution for competitive gaming.
+    <strong>Dueling protocol on Solana mainnet</strong> - trustless P2P tournaments with Squads 2 of 3 multisig treasury, fee-on-transfer token protection, and automated dispute resolution for competitive gaming.
   </p>
   <img src="https://img.shields.io/badge/Solana_Mainnet-14F195?style=for-the-badge&logoColor=black"/>
 </div>
@@ -46,7 +46,7 @@
 
 ##  sBPF Assembly Work
 
-Hand-written Solana assembly programs optimized for compute unit efficiency.
+Hand written Solana assembly programs optimized for compute unit efficiency.
 
 <div align="center">
 
@@ -86,15 +86,15 @@ Hand-written Solana assembly programs optimized for compute unit efficiency.
 
 ##  Open Source
 
-- [**scilla**](https://github.com/blueshift-gg/Scilla) — Rust CLI for Solana transaction analysis. Implemented native instruction parsing and refactored display from table-based to tree-based (ptree) format with full CPI support.
+- [**scilla**](https://github.com/blueshift-gg/Scilla) - Rust CLI for Solana transaction analysis. Implemented native instruction parsing and refactored display from table-based to tree-based (ptree) format with full CPI support.
 
 ---
 
 ##  Recognition
 
--  Graduated from **Rektoff Security Bootcamp** — security-first Solana smart contract development
--  **Arcium Fellowship 2025** — selected fellow
--  **Solana Turbin3** — Q2 Builders Cohort + Advanced Cohort (2025)
+-  Graduated from **Rektoff Security Bootcamp** - security-first Solana smart contract development
+-  **Arcium Fellowship 2025** - selected fellow
+-  **Solana Turbin3** - Q2 Builders Cohort + Advanced Cohort (2025)
 
 ---
 
